@@ -10,7 +10,7 @@ namespace TestesJenkins.Controllers
     {
         public ActionResult Index()
         {
-            var produto = new Produto(); 
+            //var produto = new Produto(); 
 
             return View();
         }
