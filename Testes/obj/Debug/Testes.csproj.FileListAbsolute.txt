@@ -1,0 +1,5 @@
+C:\Guilherme\Programação\TestesJenkins\Testes\bin\Debug\Testes.dll
+C:\Guilherme\Programação\TestesJenkins\Testes\bin\Debug\Testes.pdb
+C:\Guilherme\Programação\TestesJenkins\Testes\obj\Debug\Testes.csprojResolveAssemblyReference.cache
+C:\Guilherme\Programação\TestesJenkins\Testes\obj\Debug\Testes.dll
+C:\Guilherme\Programação\TestesJenkins\Testes\obj\Debug\Testes.pdb
